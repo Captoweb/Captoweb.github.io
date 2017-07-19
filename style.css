@@ -22,7 +22,7 @@ div.header{
 div.leftblock {
     display: inline-block;
     float: left;
-    height: 620px;
+    height: 640px;
     width: 30%;
     margin-right: 5px;
     border: 1px solid black;
@@ -34,7 +34,7 @@ div.content{
     padding: 5px;
     float: right;
     width: 66%;
-    height: 620px;
+    height: 640px;
     display: inline-block;
     border: 1px solid black;
     background-color: rgb(240, 240, 240);
