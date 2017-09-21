@@ -1,0 +1,77 @@
+ body {  
+    padding: 10px; 
+     font-size: 16px;
+         }
+p {
+    text-indent: 20px; 
+}
+.navbar {
+     
+    font-weight: 800;
+    font-size: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+} 
+.navbar-default {
+  
+    border-color: #2d2d2d;
+     background-color: #E0E0E0; 
+}
+  
+.active:hover{  
+   background-color: #ff7878; 
+ 
+}         
+  
+.f:hover {
+   background-color: #ff7878;  }
+    
+.panel-footer{
+    border-color: #292929;
+     background-color: #292929;  
+    padding-top: 10px; 
+    font-style: normal;
+    color: #d3d3d3;
+}
+
+.g:hover {
+   background-color: #ff7878;  } 
+
+.btn-primary{ 
+
+background-color: #a4a4a4;
+    font-style: normal;
+    color: black; 
+   
+}
+
+ 
+.btn-primary:hover{
+
+background-color: #ff7878;  
+font-style: normal; 
+color: black;
+ 
+} 
+
+#headerwrap {
+    background: url(../img/forgit.png) no-repeat center top;
+    margin-top: -10px; 
+    padding-top: 20px; 
+    text-align: center;
+    background-attachment: relative; 
+    background-position: center center;
+    min-height: 230px;
+    width: 100%;
+    
+     background-size: 100%;
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;  
+}
+
+.glyphicon-flag{
+    font-size: 27px;
+}
