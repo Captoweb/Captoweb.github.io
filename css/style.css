@@ -75,3 +75,19 @@ color: black;
 .glyphicon-flag{
     font-size: 27px;
 }
+
+#r {
+    background: #ff7878;
+    padding-top: 70px;
+    padding-bottom: 70px;  
+    text-align: center; 
+}
+ 
+#r h4 {
+    color: white;
+    font-size: 45px;
+}
+
+#r p {
+    color: white;
+}
