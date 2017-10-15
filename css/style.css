@@ -42,7 +42,7 @@ p {
 background-color: #a4a4a4;
  color: black; 
 }
-btn-primary:hover{
+.btn-primary:hover{
 text-align: center;
 background-color: #ff7878;  
 
