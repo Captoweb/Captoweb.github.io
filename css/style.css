@@ -37,13 +37,11 @@ p {
 .g:hover {
    background-color: #ff7878;  } 
 
-.btn-primary{ 
+<--.btn-primary{ 
 
 background-color: #a4a4a4;
-   
     color: black; 
-  text-align: center;
-   
+  text-align: center;  
 }
 
 
@@ -52,8 +50,7 @@ background-color: #a4a4a4;
 background-color: #ff7878;  
 
 color: black;
- 
-} 
+} -->
 
 #headerwrap {
     background: url(../img/forgit.png)  no-repeat center top;
