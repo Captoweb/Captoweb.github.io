@@ -38,7 +38,9 @@ p {
    background-color: #ff7878;  } 
 
 .btn-primary{
- text-align: center;  
+ text-align: center; 
+background-color: #a4a4a4;
+ color: black; 
 }
 
 #headerwrap {
